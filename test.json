@@ -1,13 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "id": "https://data.ashmus.ox.ac.uk/ees/object/470827",
-  "shows": [
-    {
-      "id": "https://data.ashmus.ox.ac.uk/ees/object/XXXXXX",
-      "type": "VisualItem",
-      "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Visual Content]"
-    }
-  ],
   "type": "HumanMadeObject", 
   "_label": "Linked Art Data for 470827",
   "identified_by": [
