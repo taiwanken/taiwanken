@@ -270,26 +270,59 @@
     }
   ],
   "produced_by": {
-    "type": "Production",
-    "technique": [
+    "part": [
       {
-        "id": "http://vocab.getty.edu/aat/300387209",
-        "type": "Type",
-        "_label": "black-figure vase painting"
-      },
-      {
-        "id": "http://vocab.getty.edu/aat/300053847",
-        "type": "Type",
-        "_label": "incising"
+        "type": "Production",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/21c449ff-7ad8-4f08-ae5f-68bde74bc5ca",
+            "type": "Type",
+            "_label": "Artist",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025103",
+                "type": "Type",
+                "_label": "Artist"
+              }
+            ]
+          }
+        ],
+        "carried_out_by": [
+          {
+            "id": "https://lux.collections.yale.edu/data/person/cdad5ce1-837b-425e-9893-6f76c5ed38d9",
+            "type": "Person",
+            "_label": "Artist: Vincent van Gogh (Dutch, active France, 1853–1890)"
+          }
+        ],
+        "referred_to_by": [
+          {
+            "type": "LinguisticObject",
+            "content": "Artist: Vincent van Gogh (Dutch, active France, 1853–1890)",
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/492ce55e-205f-4ea2-b257-52e68d0a9c0c",
+                "type": "Type",
+                "_label": "Creator Description",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435446",
+                    "type": "Type",
+                    "_label": "Creator Description"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     ],
+    "type": "Production",
     "timespan": {
       "type": "TimeSpan",
-      "_label": "550 BC - 540 BC (Archaic Period)",
       "identified_by": [
         {
           "type": "Name",
-          "content": "550",
+          "content": "1887",
           "classified_as": [
             {
               "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
@@ -306,22 +339,35 @@
           ]
         }
       ],
-      "begin_of_the_begin": "-550-01-01T00:00:00",
-      "end_of_the_end": "-540-12-31T23:59:59",
-      "part_of": [
-        {
-          "type": "TimeSpan",
-          "_label": "Archaic Period (750 BC - 480 BC)",
-          "begin_of_the_begin": "-750-01-01T00:00:00",
-          "end_of_the_end": "-480-12-31T23:59:59"
-        }
-      ]
+      "end_of_the_end": "1887-12-31T00:00:00Z",
+      "begin_of_the_begin": "1887-01-01T00:00:00Z",
+      "_seconds_since_epoch_end_of_the_end": -2587766400,
+      "_seconds_since_epoch_begin_of_the_begin": -2619216000
     },
     "took_place_at": [
       {
-        "id": "http://vocab.getty.edu/tgn/7593167",
-        "type": "Place",
-        "_label": "Attica"
+        "id": "https://lux.collections.yale.edu/data/place/8e117529-3872-494c-ab5f-8d7800be2c64",
+        "type": "Place"
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "content": "Depicted Paris, France",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/4ef9d23f-e094-4110-b069-46cd8634b9a5",
+            "type": "Type",
+            "_label": "Creation Place Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435448",
+                "type": "Type",
+                "_label": "Creation Place Description"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
