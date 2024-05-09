@@ -272,7 +272,7 @@
   "produced_by": {
     "part": [
       {
-        "type": "Production",
+        "type": "Production", 
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/21c449ff-7ad8-4f08-ae5f-68bde74bc5ca",
