@@ -286,6 +286,26 @@
     "timespan": {
       "type": "TimeSpan",
       "_label": "550 BC - 540 BC (Archaic Period)",
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "550 BC - 540 BC",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
+              "type": "Type",
+              "_label": "Display Date",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404669",
+                  "type": "Type",
+                  "_label": "Display Date"
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "begin_of_the_begin": "-550-01-01T00:00:00",
       "end_of_the_end": "-540-12-31T23:59:59",
       "part_of": [
