@@ -2,6 +2,13 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "id": "https://raw.githubusercontent.com/taiwanken/taiwanken/main/test%202.json",
   "type": "HumanMadeObject",
+  "shows": [
+    {
+      "id": "test",
+      "type": "VisualItem",
+      "_label": "Square Saint-Pierre, Paris [Visual Content]"
+    }
+  ],
   "_label": "Square Saint-Pierre, Paris",
   "made_of": [
     {
