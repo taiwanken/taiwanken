@@ -2,13 +2,6 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "id": "https://raw.githubusercontent.com/taiwanken/taiwanken/main/test%202.json",
   "type": "HumanMadeObject",
-  "shows": [
-    {
-      "id": "https://lux.collections.yale.edu/data/visual/f5f07a93-461d-49cb-95a8-8f724eeecac3",
-      "type": "VisualItem",
-      "_label": "Square Saint-Pierre, Paris [Visual Content]"
-    }
-  ],
   "_label": "Square Saint-Pierre, Paris",
   "made_of": [
     {
