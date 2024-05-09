@@ -1,6 +1,6 @@
 {
   "@context": "https://linked.art/ns/v1/linked-art.json",
-  "id": "https://data.ashmus.ox.ac.uk/ees/object/470827",
+  "id": "https://raw.githubusercontent.com/taiwanken/taiwanken/main/test.json",
   "type": "HumanMadeObject", 
   "_label": "Linked Art Data for 470827",
   "identified_by": [
