@@ -422,63 +422,6 @@
   "referred_to_by": [
     {
       "type": "LinguisticObject",
-      "content": "J. Bernard de La Faille, L'oeuvre de Vincent van Gogh (Paris: G. Van Oest, 1928), no. 276, fig. pl. LXXVI",
-      "_content_html": "\u003Cspan class=\"lux_data\"\u003EJ. Bernard de La Faille, \u003Cem\u003EL'oeuvre de Vincent van Gogh\u003C/em\u003E (Paris: G. Van Oest, 1928), no. 276, fig. pl. LXXVI\u003C/span\u003E",
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
-          "type": "Type",
-          "_label": "Citations",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300311705",
-              "type": "Type",
-              "_label": "Citations"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "LinguisticObject",
-      "content": "J. Bernard de La Faille, Vincent van Gogh (Paris: Éditions Hypérion, 1939), 261, no. 353, ill",
-      "_content_html": "\u003Cspan class=\"lux_data\"\u003EJ. Bernard de La Faille, \u003Cem\u003EVincent van Gogh\u003C/em\u003E (Paris: Éditions Hypérion, 1939), 261, no. 353, ill\u003C/span\u003E",
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
-          "type": "Type",
-          "_label": "Citations",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300311705",
-              "type": "Type",
-              "_label": "Citations"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "LinguisticObject",
-      "content": "Vincent van Gogh, Complete letters of Vincent van Gogh: with reproductions of all the drawings in the correspondence (Greenwich, Conn.: New York Graphic Society, 1958), 42–45",
-      "_content_html": "\u003Cspan class=\"lux_data\"\u003EVincent van Gogh, \u003Cem\u003EComplete letters of Vincent van Gogh: with reproductions of all the drawings in the correspondence\u003C/em\u003E (Greenwich, Conn.: New York Graphic Society, 1958), 42–45\u003C/span\u003E",
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
-          "type": "Type",
-          "_label": "Citations",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300311705",
-              "type": "Type",
-              "_label": "Citations"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "LinguisticObject",
       "_label": "Bibliography",
       "classified_as": [
         {
