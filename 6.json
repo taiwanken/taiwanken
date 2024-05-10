@@ -10,6 +10,214 @@
     }
   ],
   "_label": "Square Saint-Pierre, Paris",
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Square Saint-Pierre, Paris",
+      "language": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+          "type": "Language",
+          "_label": "eng",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "eng"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+          "type": "Type",
+          "_label": "Primary Title",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "_label": "Primary Title"
+            }
+          ]
+        },
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/31497b4e-24ad-47fe-88ad-af2007d7fb5a",
+          "type": "Type",
+          "_label": "Sort Name"
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "1958.59",
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment",
+          "carried_out_by": [
+            {
+              "id": "https://lux.collections.yale.edu/data/group/6086b58d-941d-41e3-87c1-e00e96952ffb",
+              "type": "Group",
+              "_label": "Yale University Art Gallery"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+          "type": "Type",
+          "_label": "Accession Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312355",
+              "type": "Type",
+              "_label": "Accession Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "52916",
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment",
+          "carried_out_by": [
+            {
+              "id": "https://lux.collections.yale.edu/data/group/6086b58d-941d-41e3-87c1-e00e96952ffb",
+              "type": "Group",
+              "_label": "Yale University Art Gallery"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
+          "type": "Type",
+          "_label": "System-Assigned Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435704",
+              "type": "Type",
+              "_label": "System-Assigned Number"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "https://lux.collections.yale.edu/data/concept/cc768f79-990b-46c7-83af-a99e1b0b6e08",
+      "type": "Type",
+      "_label": "Paintings",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300033618",
+          "type": "Type",
+          "_label": "Paintings"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
+          "type": "Type",
+          "_label": "Type of Work",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435443",
+              "type": "Type",
+              "_label": "Type of Work"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lux.collections.yale.edu/data/concept/4a172143-a50e-4d91-a88b-a9931bceecf1",
+      "type": "Type",
+      "_label": "Visual Works",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300191086",
+          "type": "Type",
+          "_label": "Visual Works"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/3fdac98e-1396-4e75-bb52-33894863c571",
+          "type": "Type",
+          "_label": "Super Type",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300241507",
+              "type": "Type",
+              "_label": "Super Type"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lux.collections.yale.edu/data/concept/d5cf3dcd-cdb0-4eb6-ac54-3d5e0702d7f1",
+      "type": "Type",
+      "_label": "landscapes (representations)",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300015636",
+          "type": "Type",
+          "_label": "landscapes (representations)"
+        }
+      ]
+    },
+    {
+      "id": "https://lux.collections.yale.edu/data/concept/b34ad31c-4a2f-4cef-aee3-ae8d824e42a2",
+      "type": "Type",
+      "_label": "Collection Item",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404024",
+          "type": "Type",
+          "_label": "Collection Item"
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "IIIF v3 manifest",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "IIIF v3 manifest",
+          "format": "application/ld+json",
+          "conforms_to": [
+            {
+              "id": "http://iiif.io/api/presentation/3/context.json",
+              "type": "InformationObject"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://dams.ashmus.ox.ac.uk/iiif/372504/manifest",
+              "type": "DigitalObject"
+            }
+          ],
+          "identified_by": [
+            {
+              "type": "Name",
+              "content": "IIIF v3 manifest"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "made_of": [
     {
       "id": "https://lux.collections.yale.edu/data/concept/ca01cb0e-c3ef-4b85-9675-8a8568548bcf",
@@ -115,81 +323,6 @@
       ]
     }
   ],
-  "member_of": [
-    {
-      "id": "https://lux.collections.yale.edu/data/set/703438a0-4a84-4bc8-8c9c-28e8d3e944f8",
-      "type": "Set",
-      "_label": "European Art Collection, Yale University Art Gallery"
-    }
-  ],
-  "subject_of": [
-    {
-      "type": "LinguisticObject",
-      "_label": "View this record on the Yale University Art Gallery website",
-      "digitally_carried_by": [
-        {
-          "type": "DigitalObject",
-          "_label": "View this record on the Yale University Art Gallery website",
-          "format": "text/html",
-          "access_point": [
-            {
-              "id": "https://artgallery.yale.edu/collections/objects/52916",
-              "type": "DigitalObject"
-            }
-          ],
-          "classified_as": [
-            {
-              "id": "https://lux.collections.yale.edu/data/concept/2eca07bd-be42-4ef5-9ec5-87c1bbfe639d",
-              "type": "Type",
-              "_label": "Web Page",
-              "equivalent": [
-                {
-                  "id": "http://vocab.getty.edu/aat/300264578",
-                  "type": "Type",
-                  "_label": "Web Page"
-                }
-              ]
-            }
-          ],
-          "identified_by": [
-            {
-              "type": "Name",
-              "content": "View this record on the Yale University Art Gallery website"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "LinguisticObject",
-      "_label": "IIIF v3 manifest",
-      "digitally_carried_by": [
-        {
-          "type": "DigitalObject",
-          "_label": "IIIF v3 manifest",
-          "format": "application/ld+json",
-          "conforms_to": [
-            {
-              "id": "http://iiif.io/api/presentation/3/context.json",
-              "type": "InformationObject"
-            }
-          ],
-          "access_point": [
-            {
-              "id": "https://dams.ashmus.ox.ac.uk/iiif/372504/manifest",
-              "type": "DigitalObject"
-            }
-          ],
-          "identified_by": [
-            {
-              "type": "Name",
-              "content": "IIIF v3 manifest"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "produced_by": {
     "part": [
       {
@@ -270,106 +403,8 @@
         "id": "https://lux.collections.yale.edu/data/place/8e117529-3872-494c-ab5f-8d7800be2c64",
         "type": "Place"
       }
-    ],
-    "referred_to_by": [
-      {
-        "type": "LinguisticObject",
-        "content": "Depicted Paris, France",
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/4ef9d23f-e094-4110-b069-46cd8634b9a5",
-            "type": "Type",
-            "_label": "Creation Place Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435448",
-                "type": "Type",
-                "_label": "Creation Place Description"
-              }
-            ]
-          }
-        ]
-      }
     ]
   },
-  "classified_as": [
-    {
-      "id": "https://lux.collections.yale.edu/data/concept/cc768f79-990b-46c7-83af-a99e1b0b6e08",
-      "type": "Type",
-      "_label": "Paintings",
-      "equivalent": [
-        {
-          "id": "http://vocab.getty.edu/aat/300033618",
-          "type": "Type",
-          "_label": "Paintings"
-        }
-      ],
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
-          "type": "Type",
-          "_label": "Type of Work",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300435443",
-              "type": "Type",
-              "_label": "Type of Work"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://lux.collections.yale.edu/data/concept/4a172143-a50e-4d91-a88b-a9931bceecf1",
-      "type": "Type",
-      "_label": "Visual Works",
-      "equivalent": [
-        {
-          "id": "http://vocab.getty.edu/aat/300191086",
-          "type": "Type",
-          "_label": "Visual Works"
-        }
-      ],
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/3fdac98e-1396-4e75-bb52-33894863c571",
-          "type": "Type",
-          "_label": "Super Type",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300241507",
-              "type": "Type",
-              "_label": "Super Type"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "https://lux.collections.yale.edu/data/concept/d5cf3dcd-cdb0-4eb6-ac54-3d5e0702d7f1",
-      "type": "Type",
-      "_label": "landscapes (representations)",
-      "equivalent": [
-        {
-          "id": "http://vocab.getty.edu/aat/300015636",
-          "type": "Type",
-          "_label": "landscapes (representations)"
-        }
-      ]
-    },
-    {
-      "id": "https://lux.collections.yale.edu/data/concept/b34ad31c-4a2f-4cef-aee3-ae8d824e42a2",
-      "type": "Type",
-      "_label": "Collection Item",
-      "equivalent": [
-        {
-          "id": "http://vocab.getty.edu/aat/300404024",
-          "type": "Type",
-          "_label": "Collection Item"
-        }
-      ]
-    }
-  ],
   "current_owner": [
     {
       "id": "https://lux.collections.yale.edu/data/group/6086b58d-941d-41e3-87c1-e00e96952ffb",
@@ -377,103 +412,11 @@
       "_label": "Yale University Art Gallery"
     }
   ],
-  "identified_by": [
+  "member_of": [
     {
-      "type": "Name",
-      "content": "Square Saint-Pierre, Paris",
-      "language": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-          "type": "Language",
-          "_label": "eng",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300388277",
-              "type": "Language",
-              "_label": "eng"
-            }
-          ]
-        }
-      ],
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
-          "type": "Type",
-          "_label": "Primary Title",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300404670",
-              "type": "Type",
-              "_label": "Primary Title"
-            }
-          ]
-        },
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/31497b4e-24ad-47fe-88ad-af2007d7fb5a",
-          "type": "Type",
-          "_label": "Sort Name"
-        }
-      ]
-    },
-    {
-      "type": "Identifier",
-      "content": "1958.59",
-      "assigned_by": [
-        {
-          "type": "AttributeAssignment",
-          "carried_out_by": [
-            {
-              "id": "https://lux.collections.yale.edu/data/group/6086b58d-941d-41e3-87c1-e00e96952ffb",
-              "type": "Group",
-              "_label": "Yale University Art Gallery"
-            }
-          ]
-        }
-      ],
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
-          "type": "Type",
-          "_label": "Accession Number",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300312355",
-              "type": "Type",
-              "_label": "Accession Number"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "Identifier",
-      "content": "52916",
-      "assigned_by": [
-        {
-          "type": "AttributeAssignment",
-          "carried_out_by": [
-            {
-              "id": "https://lux.collections.yale.edu/data/group/6086b58d-941d-41e3-87c1-e00e96952ffb",
-              "type": "Group",
-              "_label": "Yale University Art Gallery"
-            }
-          ]
-        }
-      ],
-      "classified_as": [
-        {
-          "id": "https://lux.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
-          "type": "Type",
-          "_label": "System-Assigned Number",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/aat/300435704",
-              "type": "Type",
-              "_label": "System-Assigned Number"
-            }
-          ]
-        }
-      ]
+      "id": "https://lux.collections.yale.edu/data/set/703438a0-4a84-4bc8-8c9c-28e8d3e944f8",
+      "type": "Set",
+      "_label": "European Art Collection, Yale University Art Gallery"
     }
   ],
   "referred_to_by": [
