@@ -54,14 +54,7 @@
       "value": 59.4,
       "assigned_by": [
         {
-          "type": "AttributeAssignment",
-          "classified_as": [
-            {
-              "id": "https://lux.collections.yale.edu/data/concept/6c0d416b-dfee-4e0f-b94f-9af02655f8f7",
-              "type": "Type",
-              "_label": "unframed"
-            }
-          ]
+          "type": "AttributeAssignment"
         }
       ],
       "classified_as": [
@@ -813,30 +806,5 @@
         }
       ]
     }
-  ],
-  "_links": {
-    "curies": [
-      {
-        "name": "la",
-        "href": "https://linked.art/api/1.0/rels/{rel}",
-        "templated": true
-      },
-      {
-        "name": "lux",
-        "href": "https://lux.collections.yale.edu/api/rels/{rel}",
-        "templated": true
-      }
-    ],
-    "self": {
-      "href": "https://lux.collections.yale.edu/data/object/256fd9bb-5476-42fb-9071-533e3c5a4ef0"
-    },
-    "lux:itemDepartment": {
-      "href": "https://lux.collections.yale.edu/api/search/agent?q=%7B%22curated%22%3A%7B%22containing%22%3A%7B%22id%22%3A%22https%3A%2F%2Flux.collections.yale.edu%2Fdata%2Fobject%2F256fd9bb-5476-42fb-9071-533e3c5a4ef0%22%7D%7D%7D",
-      "_estimate": 1
-    },
-    "lux:itemUnit": {
-      "href": "https://lux.collections.yale.edu/api/facets/item?q=%7B%22id%22%3A%22https%3A%2F%2Flux.collections.yale.edu%2Fdata%2Fobject%2F256fd9bb-5476-42fb-9071-533e3c5a4ef0%22%7D&name=responsibleUnits",
-      "_estimate": 1
-    }
-  }
+  ]
 }
