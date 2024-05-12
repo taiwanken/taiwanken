@@ -259,6 +259,51 @@
     }
   ],
   "produced_by": {
+    "part": [
+      {
+        "type": "Production",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/21c449ff-7ad8-4f08-ae5f-68bde74bc5ca",
+            "type": "Type",
+            "_label": "Artist",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025103",
+                "type": "Type",
+                "_label": "Artist"
+              }
+            ]
+          }
+        ],
+        "carried_out_by": [
+          {
+            "id": "https://vocab.getty.edu/ulan/500007296",
+            "type": "Person",
+            "_label": "Creator: Rycroft Painter (Possibly)",
+            "classified_as": [
+              {
+                "id": "https://vocab.getty.edu/aat/300404272",
+                "type": "Type",
+                "_label": "Possibly by"
+              }
+            ],
+            "assigned_by": [
+              {
+                "type": "AttributeAssignment",
+                "carried_out_by": [
+                  {
+                    "id": "http://vocab.getty.edu/ulan/500121339",
+                    "type": "Person",
+                    "_label": "John Davidson Beazley"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "type": "Production",
     "technique": [
       {
