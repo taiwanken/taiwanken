@@ -36,7 +36,7 @@
         {
           "id": "https://lux.collections.yale.edu/view/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
           "type": "Type",
-          "_label": "Exhibition Catalogue Number", // NB: Tyler's extension does not handle ECNs at the moment; this is just for consistency
+          "_label": "Exhibition Catalogue Number",
           "equivalent": [
             {
               "id": "https://vocab.getty.edu/aat/300404620",
@@ -116,7 +116,7 @@
         {
           "type": "DigitalObject",
           "_label": "IIIF v3 manifest",
-          "format": "application/ld+json", // not sure what this does but keep it in for now; ?remove later
+          "format": "application/ld+json",
           "conforms_to": [
             {
               "id": "https://iiif.io/api/presentation/3/context.json",
@@ -125,7 +125,7 @@
           ],
           "access_point": [
             {
-              "id": "https://dams.ashmus.ox.ac.uk/iiif/372504/manifest", // dummy manifest for now
+              "id": "https://dams.ashmus.ox.ac.uk/iiif/372504/manifest",
               "type": "DigitalObject"
             }
           ],
@@ -259,7 +259,6 @@
     }
   ],
   "produced_by": {
-// I've removed a chunk here relating to the 'creator' of an object, since it's unknown here
     "type": "Production",
     "technique": [
       {
@@ -296,7 +295,7 @@
         }
       ],
       "begin_of_the_begin": "-550-12-31T23:59:59Z",
-      "end_of_the_end": "-540-01-01T00:00:00Z", // removed seconds since epoch
+      "end_of_the_end": "-540-01-01T00:00:00Z",
       "part_of": [
         {
           "id": "https://vocab.getty.edu/aat/300020086",
@@ -397,12 +396,6 @@
         }
       ]
     },
-// stopped here
-// model everything from here onwards
-// Further notes can be modelled as a description
-// incorporate Provenance Activity as separate from Provenance Statement
-// incorporate Online discussion
-// the current prov. activity is wrongly modelled; refer to LA docs
     {
       "type": "LinguisticObject",
       "content": "Purchased, 1911. Source: Mrs. Horne, through the kindness of the director of the British Museum.",
