@@ -1,0 +1,39 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/LabyrinthExhibitionObjects.json",
+  "type": "Set",
+  "_label": "Labyrinth: Knossos, Myth & Reality Exhibition Objects",
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Labyrinth: Knossos, Myth & Reality Exhibition Objects"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435416",
+          "type": "Type",
+          "_label": "Description",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "Objects in the Labyrinth: Knossos, Myth & Reality Exhibition."
+    }
+  ]
+}

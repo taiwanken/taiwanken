@@ -1,5 +1,5 @@
 {
-  "@context": "http://linked.art/ns/v1/linked-art.json",
+  "@context": "https://linked.art/ns/v1/linked-art.json",
   "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/AmphoraVis.json",
   "type": "VisualItem",
   "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Visual Content]",
