@@ -1,0 +1,685 @@
+{
+  "@context": "http://linked.art/ns/v1/linked-art.json",
+  "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/AmphoraPhys.json",
+  "type": "HumanMadeObject",
+  "shows": [
+    {
+      "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/AmphoraVis.json",
+      "type": "VisualItem",
+      "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Visual Content]"
+    }
+  ],
+  "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Physical Object]",
+  "identified_by": [
+    {
+      "type": "Identifier",
+      "content": "AN1911.256",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+          "type": "Type",
+          "_label": "Accession Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312355",
+              "type": "Type",
+              "_label": "Accession Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Identifier",
+      "content": "EX24.012",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/view/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
+          "type": "Type",
+          "_label": "Exhibition Catalogue Number",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404620",
+              "type": "Type",
+              "_label": "Exhibition Catalogue Number"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Name",
+      "content": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other",
+      "language": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+          "type": "Language",
+          "_label": "English",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "English"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+          "type": "Type",
+          "_label": "Primary Title",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "_label": "Primary Title"
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300417205",
+              "type": "Type",
+              "_label": "Constructed Title"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "classified_as": [
+    {
+      "id": "http://vocab.getty.edu/aat/300264913",
+      "type": "Type",
+      "_label": "Type B belly amphora",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
+          "type": "Type",
+          "_label": "Type of Work",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435443",
+              "type": "Type",
+              "_label": "Type of Work"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "_label": "IIIF v3 manifest",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "_label": "IIIF v3 manifest",
+          "format": "application/ld+json",
+          "conforms_to": [
+            {
+              "id": "http://iiif.io/api/presentation/3/context.json",
+              "type": "InformationObject"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "http://dams.ashmus.ox.ac.uk/iiif/372504/manifest",
+              "type": "DigitalObject"
+            }
+          ],
+          "identified_by": [
+            {
+              "type": "Name",
+              "content": "IIIF v3 manifest"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "made_of": [
+    {
+      "id": "http://vocab.getty.edu/aat/300235507",
+      "type": "Material",
+      "_label": "ceramic"
+    },
+    {
+      "id": "http://vocab.getty.edu/aat/300015029",
+      "type": "Material",
+      "_label": "paint"
+    }
+  ],
+  "dimension": [
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      },
+      "value": 47,
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055644",
+          "type": "Type",
+          "_label": "height"
+        }
+      ]
+    },
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      },
+      "value": 28.5,
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "width"
+        }
+      ]
+    },
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300379098",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      },
+      "value": 21,
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055624",
+          "type": "Type",
+          "_label": "diameter (rim)"
+        }
+      ]
+    },
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300055624",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      },
+      "value": 16.5,
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055647",
+          "type": "Type",
+          "_label": "diameter (foot)"
+        }
+      ]
+    },
+    {
+      "type": "Dimension",
+      "unit": {
+        "id": "http://vocab.getty.edu/aat/300055624",
+        "type": "MeasurementUnit",
+        "_label": "cm"
+      },
+      "value": 1.5,
+      "assigned_by": [
+        {
+          "type": "AttributeAssignment"
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055646",
+          "type": "Type",
+          "_label": "thickness (rim)"
+        }
+      ]
+    }
+  ],
+  "produced_by": {
+    "part": [
+      {
+        "type": "Production",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/21c449ff-7ad8-4f08-ae5f-68bde74bc5ca",
+            "type": "Type",
+            "_label": "Artist",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300025103",
+                "type": "Type",
+                "_label": "Artist"
+              }
+            ]
+          }
+        ],
+        "carried_out_by": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500007296.json",
+            "type": "Person",
+            "_label": "Creator: Rycroft Painter (Possibly)",
+            "classified_as": [
+              {
+                "id": "https://vocab.getty.edu/aat/300404272",
+                "type": "Type",
+                "_label": "Possibly by"
+              }
+            ],
+            "assigned_by": [
+              {
+                "type": "AttributeAssignment",
+                "carried_out_by": [
+                  {
+                    "id": "http://vocab.getty.edu/ulan/500121339",
+                    "type": "Person",
+                    "_label": "John Davidson Beazley"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "Production",
+    "technique": [
+      {
+        "id": "http://vocab.getty.edu/aat/300387209",
+        "type": "Type",
+        "_label": "black-figure vase painting"
+      },
+      {
+        "id": "http://vocab.getty.edu/aat/300053847",
+        "type": "Type",
+        "_label": "incising"
+      }
+    ],
+    "timespan": {
+      "type": "TimeSpan",
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "550 BC - 540 BC (Archaic Period)",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
+              "type": "Type",
+              "_label": "Display Date",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300404669",
+                  "type": "Type",
+                  "_label": "Display Date"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "begin_of_the_begin": "-550-12-31T23:59:59Z",
+      "end_of_the_end": "-540-01-01T00:00:00Z",
+      "part_of": [
+        {
+          "id": "http://vocab.getty.edu/aat/300020086",
+          "type": "TimeSpan",
+          "_label": "Archaic Period (750 BC - 480 BC)",
+          "begin_of_the_begin": "-750-01-01T00:00:00",
+          "end_of_the_end": "-480-12-31T23:59:59"
+        }
+      ]
+    },
+    "took_place_at": [
+      {
+        "id": "http://vocab.getty.edu/tgn/7593167",
+        "type": "Place",
+        "_label": "Attica"
+      }
+    ]
+  },
+  "current_owner": [
+    {
+      "id": "http://vocab.getty.edu/ulan/500309840",
+      "type": "Group",
+      "_label": "Ashmolean Museum"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/LabyrinthExhibitionObjects.json",
+      "type": "Set",
+      "_label": "Labyrinth Exhibition Objects"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "_label": "Bibliography",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435419",
+          "type": "Type",
+          "_label": "Bibliography"
+        }
+      ],
+      "part": [
+        {
+          "type": "LinguisticObject",
+          "content": "Beazley, J. D. Attic Black-Figure Vase-Painters (ABV), Attic Black-Figure Vase-Painters, Cat. No.: p.336 no.11",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+              "type": "Type",
+              "_label": "Citations",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300311705",
+                  "type": "Type",
+                  "_label": "Citations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "Beazley, J.D., H.G.G. Payne, E.R. Price, CVA 2, Corpus Vasorum Antiquorum, Great Britain 9, Oxford 2, page illustrated: no. 3-4 on pl. 6, no. 7-9 on pl. 7, no. 5 on pl. 9, Cat. No.: no. 3-4 on p. 98",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+              "type": "Type",
+              "_label": "Citations",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300311705",
+                  "type": "Type",
+                  "_label": "Citations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "BAPD, Beazley Archive Pottery Database, Cat. No.: 301835",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+              "type": "Type",
+              "_label": "Citations",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300311705",
+                  "type": "Type",
+                  "_label": "Citations"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Purchased, 1911. Source: Mrs. Horne, through the kindness of the director of the British Museum.",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
+          "type": "Type",
+          "_label": "Credit Line",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435418",
+              "type": "Type",
+              "_label": "Credit Line"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Height 47 cm; rim diameter 21 cm; foot diameter 16.5 cm; width 28.5 cm; rim thickness 1.5 cm.",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/53922f57-dab5-43c5-a527-fc20a63fe128",
+          "type": "Type",
+          "_label": "Dimensions Statement",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "_label": "Dimensions Statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Pottery, with painted and incised decoration.",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
+          "type": "Type",
+          "_label": "Medium Statement",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435429",
+              "type": "Type",
+              "_label": "Medium Statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Archaic Period (750 BC - 480 BC)",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/c1cb739d-db1e-4e93-bb03-64f135e0b4cb",
+          "type": "Type",
+          "_label": "Period",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300081446",
+              "type": "Type",
+              "_label": "Period"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Place of creation: Attica. Find spot: Unknown. Purchased, 1911. Presented by Mrs. Horne, through the kindness of the director of the British Museum.",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/dd8b8c75-3f4b-4071-a231-161ae556e572",
+          "type": "Type",
+          "_label": "Provenance Description",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435438",
+              "type": "Type",
+              "_label": "Provenance Description"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "_label": "Online discussion",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312269",
+          "type": "Type",
+          "_label": "Social Media"
+        }
+      ],
+      "part": [
+        {
+          "type": "LinguisticObject",
+          "content": "ariadne is arguably an unsung heroine in the myth of theseus and the minotaur in most versions of the myth ariadne gives theseus a ball of thread often said to be red to help him retrace his steps escape the labyrinth learn more https t co weotnqx h labyrinth ashmolean https t co js gzloo a",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312269",
+              "type": "Type",
+              "_label": "social media (tweet)"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "rt ashmoleanmuseum ariadne is arguably an unsung heroine in the myth of theseus and the minotaur in most versions of the myth ariadne gives theseus a ball of thread often said to be red to help him retrace his steps escape the labyrinth learn more https t co weotnqx h labyrinth ashmolean https t co js gzloo a",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300312269",
+              "type": "Type",
+              "_label": "social media (tweet)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "LinguisticObject",
+      "content": "Decant Label: Decant record merged by: helen-h : 04/01/2013 Bar code: ODS1-11571 Accession no.: AN1911.256 Title: black figure amphora Containers No. of items: 1 Condition: 1 : no conservation needed : from decant database Mat. / techn.: ceramic, part- or unglazed Geographical comment:   Unrecorded Inventory note: Decant note: 0 : Not validated Inv. person: decant station DS3 Creation date: 15/09/2005 Decant recorded period: Greece and Aegean Comment from Decant database: War chariot, dionysos, aridadne and satyr catalogue text: CVA, GB 9, Oxford 298-99 pl.6.3-4; pl. 7.7-8. pl. 9.5: amphora, 1911.256. A, AM. 41, pl. 21,2 (wrde). Ht. 469. Red lines as in 1-2, except that there is none above the rays. Traces of a red dipinto. A, chariot. A warrior setting out> he stands fully armed in the car, shield on left arm, a pari of spears in his left hand, his right hand holding the rail. Beside him stands the youg charioteer (long chiton, skin, belt), holding reins and goad. Beside the chariot an old man (long chiton, himation) and a warrior; at the horses' haeds a waoman (Ionic chiton, himation). For the subject see Wrede, AM.41, pp. 222ff.: our vase is no. 32 in his list on p. 226. B, Dionysos: he waers a long chiton, a himation, an ivy-wreath, and hold a drinking-horn; facing him Ariadne (Ionic chiton, himation, stephane); on each side, a silen dancing. Red and white details. White circles on the charioteer's fawn-skin. Thbe horses have white teeth, and white studs on their headstalls. Dionysos' lower lip and part of beard and hair to the left of the lipe; in ~Ariadne, a repainted crack through the chiton where it is pulled out over the girdle. Her right arm has become fin-like through the disappearance of the white of the rough underpaint. End of the sixth century. By the painter of Oxofrd 1911.256: by the same, the amphora (type A) Louver F 209 (CV. Louvre III he, pl. 22, 2-3 and 5), two hydriai in Syracuse, (Mon. Lincei, 17, pl. 35 and pl. 36), the neck-amphora Munich 1577 (Herakles and Athena) and 1531 (Gerhard, AV, pl. 23; Pfuhl, fig. 763); perhaps also the fragment of a white pyxis in the Acropolis collection, Graef, pl. 95, no. 2082, and the amphora Cabinet des Medailles 208 (CV. CM. pl. 43, 1-2). physical description: Attic black-figure Type B pottery belly-amphora attributed by Beazley to the Rycroft Painter. Matt black painted gloss. Flaring lip and torus foot. Single added red line around neck. Band of opposed and alternating lotus flowers and palmettes at junction of neck and shoulder. On lower body, wide black band followed by band of rising rays. Red line on foot and reserved around edge and on underside of foot. Dipinto inscription. A. The black-figure decoration consists of a military scene.  A warrior takes his leave. From the left, a young charioteer with a red fringe and dressed in an added white chiton with a belted white spotted nebris over top, stands to right in the red chariot box and holds his reins and goad.  Standing next to him in the chariot box, a red bearded hoplite. He wears a red crested helmet, a cuirass, chitoniskos and greaves.  He holds his spears in his left hand and his red shield, hanging from his left arm, is seen from the inside. It has a red edge and white porpax, antilabe and carrying cord. Standing on the ground before him, an elderly balding male figure. His hair and beard are white. He is barefoot and his himation is decorated with white dotted rosettes. He holds his walking stick in his left hand. Perhaps he watches the hoplite before him walk away. The hoplite has a red dotted crested helmet, he wears a chitoniskos with a red hem, greaves over his shins and shoes. He turns his head back towards the elderly figure. He carries a round white shield and spear. Of the four harnessed horses, two have a red tail and at least three have a red mane. The pole horse has a red bridle and the horse next to it has a red and white dotted bridle. At the far right, a female figure with white flesh and wearing a simple patterned chiton with a himation with a red hem over top stands to left. She wears a red taenia in her hair. The two concentric red lines below serve as the ground line. B. A Dionysiac scene. From the left, a naked ithyphallic satyr with red hair and beard dances to right. Before him, Dionysos has a red beard and is dressed in a white chiton with a patterned himation with a red hem over top and a red wreath on his head. He stands to right and holds a drinking horn in his raised left hand. Ariadne stands facing him. She has white flesh with a red taenia in her hair. She wears a simple chiton with a red-hemmed himation over top. At the far right, another similar satyr dances to right and looks back. The vase is reassembled from several sherds. Parts of the figured decoration are modern. Date: 20.03.2019 research results note: For parallels regarding the composition on Side A, see the amphora in Toledo (Museum of Art; 1972.54) and another in Paris (Musée du Louvre; F215), both of which are attributed to the Rycroft Painter. Date: 20.03.2019 exhibition text: 1    Dionysus and Ariadne About 530–520 BCE, ceramic Ashmolean Museum Date: 17.01.2023 website description: The meeting between the wine-god Dionysus and Ariadne on this black-figure amphora perhaps depicts a happier moment in Ariadne’s troubled story. She is the unsung heroine of the Theseus and Minotaur myth, as she gave Theseus a ball of thread to help him retrace his steps and escape the famous Labyrinth. But Theseus later abandons her on the island of Naxos. Her fortunes change when Dionysus finds and falls in love with her. Originating in the Greek city of Corinth during the 7th century BC, the black-figure technique of vase-painting, where the figures are silhouetted in black paint with incised details against an unpainted clay background, was adopted and refined by Athenian craftsmen in the following century. Date: 11.12.2023",
+      "language": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+          "type": "Language",
+          "_label": "English",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language",
+              "_label": "English"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+          "type": "Type",
+          "_label": "Description",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435416",
+              "type": "Type",
+              "_label": "Description"
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+              "type": "Type",
+              "_label": "Brief Text",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "Brief Text"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Activity",
+      "_label": "Provenance Event Record",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300055863",
+          "type": "Type",
+          "_label": "Provenance Activity"
+        }
+      ],
+      "part": [
+        {
+          "type": "Encounter",
+          "_label": "Encounter event",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300438557",
+              "type": "Type",
+              "_label": "Encounter"
+            }
+          ],
+          "encountered": [
+            {
+              "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/AmphoraPhys.json",
+              "type": "HumanMadeObject",
+              "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Physical Object]"
+            }
+          ],
+          "took_place_at": [
+            {
+              "id": "http://vocab.getty.edu/tgn/7544559",
+              "type": "Place",
+              "_label": "Unknown"
+            }
+          ]
+        },
+        {
+          "type": "Acquisition",
+          "_label": "Purchase event",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300077989",
+              "type": "Type",
+              "_label": "Purchase"
+            }
+          ],
+          "transferred_title_of": [
+            {
+              "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/AmphoraPhys.json",
+              "type": "HumanMadeObject",
+              "_label": "Attic black-figure pottery amphora depicting Dionysus and Ariadne on one side and a military scene on the other [Physical Object]"
+            }
+          ],
+          "transferred_title_to": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500309840",
+              "type": "Group",
+              "_label": "Ashmolean Museum"
+            }
+          ],
+          "timespan": {
+            "type": "TimeSpan",
+            "_label": "1911",
+            "begin_of_the_begin": "1911-01-01T00:00:00",
+            "end_of_the_end": "1911-12-31T23:59:59"
+          }
+        }
+      ]
+    }
+  ]
+}
