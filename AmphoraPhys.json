@@ -125,7 +125,7 @@
             ],
             "access_point": [
               {
-                "id": "http://dams.ashmus.ox.ac.uk/iiif/372504/manifest",
+                "id": "https://dams.ashmus.ox.ac.uk/iiif/470827/manifest",
                 "type": "DigitalObject"
               }
             ],
@@ -280,14 +280,7 @@
             {
               "id": "https://vocab.getty.edu/ulan/500007296.jsonld",
               "type": "Person",
-              "_label": "Creator: Rycroft Painter (Possibly)",
-              "classified_as": [
-                {
-                  "id": "https://vocab.getty.edu/aat/300404272",
-                  "type": "Type",
-                  "_label": "Possibly by"
-                }
-              ],
+              "_label": "Attributed to: The Rycroft Painter",
               "assigned_by": [
                 {
                   "type": "AttributeAssignment",
