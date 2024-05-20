@@ -108,7 +108,7 @@
       {
         "id": "http://vocab.getty.edu/aat/300046014",
         "type": "Type",
-        "_label": "Seal ring",
+        "_label": "Signet ring",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
@@ -263,6 +263,11 @@
           ]
       }
     ],
+    "current_location": {
+      "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+      "type": "Place",
+      "_label": "Ashmolean Museum"
+    },
     "current_owner": [
       {
         "id": "http://vocab.getty.edu/ulan/500309840",
@@ -367,7 +372,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Presented by Sir Arthur Evans, 1938.",
+        "content": "Presented by Sir Arthur Evans, 1938.\n © Ashmolean Museum, University of Oxford",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
@@ -403,7 +408,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Gold.",
+        "content": "gold",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
@@ -624,7 +629,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "exhibition text: 5    Signet ring with a bull-leaping scene This gold ring shows a man leaping over a bull. The paved floor indicates that this took place in or around the Palace. The object in front of the bull is probably a folded garment of cloth or leather but its significance is not clear. 1450–1375 BCE, gold said to be from Archanes Ashmolean Museum Date: 17.01.2023",
+        "content": "This gold ring shows a man leaping over a bull. The paved floor indicates that this took place in or around the Palace. The object in front of the bull is probably a folded garment of cloth or leather but its significance is not clear. 1450–1375 BCE, gold said to be from Archanes.",
         "_label": "Further text",
         "language": [
           {

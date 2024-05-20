@@ -265,7 +265,7 @@
           ],
           "carried_out_by": [
             {
-              "id": "http://vocab.getty.edu/ulan/500118921.jsonld",
+              "id": "http://vocab.getty.edu/ulan/500118921",
               "type": "Person",
               "_label": "Attributed to Apollodoros",
               "assigned_by": [
@@ -517,7 +517,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Purchased, 1890s. Source: Mr William Ready. © Ashmolean Museum, University of Oxford",
+        "content": "Purchased, 1890s. Source: Mr William Ready.\n © Ashmolean Museum, University of Oxford",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
@@ -553,7 +553,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Pottery, with painted decoration.",
+        "content": "pottery, with painted decoration",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",

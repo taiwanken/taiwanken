@@ -260,6 +260,11 @@
         }
       ]
     },
+    "current_location": {
+      "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+      "type": "Place",
+      "_label": "Ashmolean Museum"
+    },
     "current_owner": [
       {
         "id": "http://vocab.getty.edu/ulan/500309840",
@@ -328,7 +333,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Presented by Reverend Charles Godwyn, 1770.",
+        "content": "Presented by Reverend Charles Godwyn, 1770.\n © Ashmolean Museum, University of Oxford",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
@@ -364,7 +369,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Silver, struck.",
+        "content": "silver, struck",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
@@ -466,54 +471,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "exhibition text: 1  Labyrinth coin with the Minotaur A Greek coin shows a Labyrinth with a single path to the miniscule Minotaur at the centre. The sword below could signify Theseus. 300–200 BCE, silver Ashmolean Museum: Presented by Reverend Charles Godwyn 1770 Date: 17.01.2023.",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "website description: Coins from Knossos, on the island of Crete, were decorated with a symbol of the city: a labyrinth design which sometimes had a Minotaur at the centre. The design on the reverse of this coin, unlike most literary descriptions, has a single path into the centre. It appears more like a bird’s eye view of a building, and one in which it is impossible to get lost. In Greek myth, the Minotaur was a monster with the head of a bull and the body of a man who was imprisoned in a dark underground labyrinth at Knossos. The Labyrinth was an ingenious maze commissioned by King Minos and designed by the architect Daedalus. In order to escape the maze after killing the Minotaur, the hero Theseus needed a ball of thread, given to him by the princess Ariadne. Or at least that is the most commonly accepted story – digging deeper into the myth reveals a multitude of contradictory versions. Myths are continually reworked and retold, and that of the Labyrinth is no exception. Date: 11.12.2023.",
+        "content": "Coins from Knossos, on the island of Crete, were decorated with a symbol of the city: a labyrinth design which sometimes had a Minotaur at the centre. The design on the reverse of this coin, unlike most literary descriptions, has a single path into the centre. It appears more like a bird’s eye view of a building, and one in which it is impossible to get lost.\n In Greek myth, the Minotaur was a monster with the head of a bull and the body of a man who was imprisoned in a dark underground labyrinth at Knossos. The Labyrinth was an ingenious maze commissioned by King Minos and designed by the architect Daedalus.\n In order to escape the maze after killing the Minotaur, the hero Theseus needed a ball of thread, given to him by the princess Ariadne. Or at least that is the most commonly accepted story – digging deeper into the myth reveals a multitude of contradictory versions. Myths are continually reworked and retold, and that of the Labyrinth is no exception.",
         "_label": "Further text",
         "language": [
           {
