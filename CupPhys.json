@@ -347,13 +347,11 @@
           ]
       }
     ],
-    "current_location": [
-      {
-        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
-        "type": "Place",
-        "_label": "Ashmolean Museum"
-      }
-    ],
+    "current_location": {
+      "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+      "type": "Place",
+      "_label": "Ashmolean Museum"
+    },
     "current_owner": [
       {
         "id": "http://vocab.getty.edu/ulan/500309840",
@@ -519,7 +517,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Purchased, 1890s. Source: Mr William Ready.",
+        "content": "Purchased, 1890s. Source: Mr William Ready. © Ashmolean Museum, University of Oxford",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
