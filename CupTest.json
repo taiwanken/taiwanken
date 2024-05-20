@@ -108,7 +108,14 @@
       {
         "id": "https://lux.collections.yale.edu/data/concept/1d830602-77cf-43f0-bdab-a9862c3ee0f2",
         "type": "Type",
-        "_label": "Kylix (Type B)",
+        "_label": "Kylix (type B)",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300264994",
+            "type": "Type",
+            "_label": "Kylix (type B)"
+          }
+        ],
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
@@ -328,35 +335,63 @@
       },
       "took_place_at": [
         {
-          "id": "http://vocab.getty.edu/tgn/7593167",
+          "id": "https://lux.collections.yale.edu/data/place/cb69153b-0690-47c6-8fa8-a1c7d236393d",
           "type": "Place",
-          "_label": "Attica"
+          "_label": "Attica",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/tgn/7593167",
+              "type": "Type",
+              "_label": "Attica"
+            }
+          ]
         }
       ]
     },
     "encountered_by": [
       {
-          "type": "Encounter",
-          "_label": "Encounter event",
-          "took_place_at": [
+        "type": "Encounter",
+        "_label": "Encounter event",
+        "took_place_at": [
+          {
+            "id": "https://lux.collections.yale.edu/data/place/c3c09e0f-9b1b-4cd4-853c-2f7e1381b0dc",
+            "type": "Place",
+            "_label": "Chiusi",
+            "equivalent": [
               {
-                  "id": "http://vocab.getty.edu/tgn/7006344",
-                  "type": "Place",
-                  "_label": "Chiusi"
+                "id": "http://vocab.getty.edu/tgn/7006344",
+                "type": "Place",
+                "_label": "Chiusi"
               }
-          ]
+            ]
+          }
+        ]
       }
     ],
     "current_location": {
       "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
       "type": "Place",
-      "_label": "Ashmolean Museum"
+      "_label": "Ashmolean Museum",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500309840",
+          "type": "Place",
+          "_label": "Ashmolean Museum"
+        }
+      ]
     },
     "current_owner": [
       {
-        "id": "http://vocab.getty.edu/ulan/500309840",
+        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
         "type": "Group",
-        "_label": "Ashmolean Museum"
+        "_label": "Ashmolean Museum",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ]
       }
     ],
     "former_or_current_owner": [

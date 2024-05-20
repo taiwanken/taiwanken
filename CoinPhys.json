@@ -106,9 +106,16 @@
     ],
     "classified_as": [
       {
-        "id": "http://vocab.getty.edu/aat/300037222",
+        "id": "https://lux.collections.yale.edu/data/concept/04a52fcf-0e59-4635-9b08-5aebec844466",
         "type": "Type",
         "_label": "Coin",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300037222",
+            "type": "Type",
+            "_label": "Coin"
+          }
+        ],
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
@@ -254,22 +261,43 @@
       },
       "took_place_at": [
         {
-          "id": "http://vocab.getty.edu/tgn/7010870",
+          "id": "https://lux.collections.yale.edu/data/place/9f0e37e8-eee4-45ea-a061-8e9d08d04a09",
           "type": "Place",
-          "_label": "Knossos"
+          "_label": "Knossos",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/tgn/7010870",
+              "type": "Place",
+              "_label": "Knossos"
+            }
+          ]
         }
       ]
     },
     "current_location": {
       "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
       "type": "Place",
-      "_label": "Ashmolean Museum"
+      "_label": "Ashmolean Museum",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500309840",
+          "type": "Place",
+          "_label": "Ashmolean Museum"
+        }
+      ]
     },
     "current_owner": [
       {
-        "id": "http://vocab.getty.edu/ulan/500309840",
+        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
         "type": "Group",
-        "_label": "Ashmolean Museum"
+        "_label": "Ashmolean Museum",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ]
       }
     ],
     "acquired_title_through": [

@@ -106,9 +106,16 @@
     ],
     "classified_as": [
       {
-        "id": "http://vocab.getty.edu/aat/300046014",
+        "id": "https://lux.collections.yale.edu/data/concept/1804ef8c-e6a1-4f8a-a656-d7abbc2783f3",
         "type": "Type",
         "_label": "Signet ring",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300046014",
+            "type": "Type",
+            "_label": "Signet ring"
+          }
+        ],
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
@@ -256,9 +263,16 @@
           "_label": "Encounter event",
           "took_place_at": [
               {
-                  "id": "http://vocab.getty.edu/tgn/8722313",
+                  "id": "https://lux.collections.yale.edu/data/place/aeed37c3-a679-4b7d-ab44-7b6a2369bda7",
                   "type": "Place",
-                  "_label": "Archanes"
+                  "_label": "Archanes",
+                  "equivalent": [
+                    {
+                      "id": "http://vocab.getty.edu/tgn/8722313",
+                      "type": "Place",
+                      "_label": "Archanes"
+                    }
+                  ]
               }
           ]
       }
@@ -266,13 +280,27 @@
     "current_location": {
       "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
       "type": "Place",
-      "_label": "Ashmolean Museum"
+      "_label": "Ashmolean Museum",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500309840",
+          "type": "Place",
+          "_label": "Ashmolean Museum"
+        }
+      ]
     },
     "current_owner": [
       {
-        "id": "http://vocab.getty.edu/ulan/500309840",
+        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
         "type": "Group",
-        "_label": "Ashmolean Museum"
+        "_label": "Ashmolean Museum",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ]
       }
     ],
     "acquired_title_through": [
@@ -483,147 +511,6 @@
             "id": "http://vocab.getty.edu/aat/300312269",
             "type": "Type",
             "_label": "Social Media (tweet)"
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "short description: Gold signet ring with a bull-leaping scene",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "Decant Label: Decant record merged by: yannis-g : 04/03/2008 Bar code: ODS5-13464 Accession no.: AN1896-1908 AE.2237 Title / Object: minoan seal Classification: Dress and Personal Accessories No. of items: 1 Condition short: 4 : No conservation needed Mat. / techn.: silver/gold Geographical comment:   Unrecorded Inventory note: Decant note: 1 : Valid Inv. person: decant station DS5 Creation date: 28/02/2006 Decant recorded period: Greece and Aegean Comment from Decant database: reserved for research Comment during Decant DB checking: image on JC image DB  Gold ring  - bull leaper",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "comment: Casts of this seal are in CDS5-1679.",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
           }
         ]
       },
