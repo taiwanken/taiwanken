@@ -1,0 +1,671 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/CupPhys.json",
+    "type": "HumanMadeObject",
+    "shows": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/CupVis.json",
+        "type": "VisualItem",
+        "_label": "Attic red-figure cup depicting Theseus and the Minotaur [Visual Content]"
+      }
+    ],
+    "_label": "Attic red-figure cup depicting Theseus and the Minotaur [Physical Object]",
+    "identified_by": [
+      {
+        "type": "Identifier",
+        "content": "AN1896-1908.G.261",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+            "type": "Type",
+            "_label": "Accession Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "Accession Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "387563",
+        "_label": "Object ID",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
+            "type": "Type",
+            "_label": "Record Identifier",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435704",
+                "type": "Type",
+                "_label": "Record Identifier"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "EX24.009",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/view/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
+            "type": "Type",
+            "_label": "Exhibition Catalogue Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404620",
+                "type": "Type",
+                "_label": "Exhibition Catalogue Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Name",
+        "content": "Attic red-figure cup depicting Theseus and the Minotaur",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+            "type": "Type",
+            "_label": "Primary Title",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Title"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300417205",
+            "type": "Type",
+            "_label": "Constructed Title"
+          }
+        ]
+      }
+    ],
+    "classified_as": [
+      {
+        "id": "https://lux.collections.yale.edu/data/concept/1d830602-77cf-43f0-bdab-a9862c3ee0f2",
+        "type": "Type",
+        "_label": "Kylix (Type B)",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
+            "type": "Type",
+            "_label": "Type of Work",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435443",
+                "type": "Type",
+                "_label": "Type of Work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "type": "LinguisticObject",
+        "_label": "IIIF v3 manifest",
+        "digitally_carried_by": [
+          {
+            "type": "DigitalObject",
+            "_label": "IIIF v3 manifest",
+            "format": "application/ld+json",
+            "conforms_to": [
+              {
+                "id": "http://iiif.io/api/presentation/3/context.json",
+                "type": "InformationObject"
+              }
+            ],
+            "access_point": [
+              {
+                "id": "https://dams.ashmus.ox.ac.uk/iiif/387563/manifest",
+                "type": "DigitalObject"
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Name",
+                "content": "IIIF v3 manifest"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "made_of": [
+      {
+        "id": "http://vocab.getty.edu/aat/300235507",
+        "type": "Material",
+        "_label": "ceramic"
+      }
+    ],
+    "dimension": [
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 8.1,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055644",
+            "type": "Type",
+            "_label": "height"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 26.7,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055647",
+            "type": "Type",
+            "_label": "width"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 20,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055624",
+            "type": "Type",
+            "_label": "diameter (rim)"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300055624",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 8,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055647",
+            "type": "Type",
+            "_label": "diameter (foot)"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300055624",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 0.3,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055646",
+            "type": "Type",
+            "_label": "thickness (rim)"
+          }
+        ]
+      }
+    ],
+    "produced_by": {
+      "part": [
+        {
+          "type": "Production",
+          "classified_as": [
+            {
+              "id": "https://lux.collections.yale.edu/data/concept/21c449ff-7ad8-4f08-ae5f-68bde74bc5ca",
+              "type": "Type",
+              "_label": "Artist",
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300025103",
+                  "type": "Type",
+                  "_label": "Artist"
+                }
+              ]
+            }
+          ],
+          "carried_out_by": [
+            {
+              "id": "http://vocab.getty.edu/ulan/500118921",
+              "type": "Person",
+              "_label": "Attributed to Apollodoros",
+              "assigned_by": [
+                {
+                  "type": "AttributeAssignment",
+                  "carried_out_by": [
+                    {
+                      "id": "http://vocab.getty.edu/ulan/500121339",
+                      "type": "Person",
+                      "_label": "John Davidson Beazley"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": "Production",
+      "technique": [
+        {
+          "id": "http://vocab.getty.edu/aat/300387208",
+          "type": "Type",
+          "_label": "red-figure vase painting"
+        }
+      ],
+      "timespan": {
+        "type": "TimeSpan",
+        "identified_by": [
+          {
+            "type": "Name",
+            "content": "circa 500 BC (Archaic Period)",
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
+                "type": "Type",
+                "_label": "Display Date",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300404669",
+                    "type": "Type",
+                    "_label": "Display Date"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "begin_of_the_begin": "-500-01-01T00:00:00Z",
+        "end_of_the_end": "-500-12-31T23:59:59Z",
+        "part_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300020086",
+            "type": "TimeSpan",
+            "_label": "Archaic Period (750 BC - 480 BC)",
+            "begin_of_the_begin": "-750-01-01T00:00:00Z",
+            "end_of_the_end": "-480-12-31T23:59:59Z"
+          }
+        ]
+      },
+      "took_place_at": [
+        {
+          "id": "http://vocab.getty.edu/tgn/7593167",
+          "type": "Place",
+          "_label": "Attica"
+        }
+      ]
+    },
+    "encountered_by": [
+      {
+          "type": "Encounter",
+          "_label": "Encounter event",
+          "took_place_at": [
+              {
+                  "id": "http://vocab.getty.edu/tgn/7006344",
+                  "type": "Place",
+                  "_label": "Chiusi"
+              }
+          ]
+      }
+    ],
+    "current_location": {
+      "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+      "type": "Place",
+      "_label": "Ashmolean Museum"
+    },
+    "current_owner": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500309840",
+        "type": "Group",
+        "_label": "Ashmolean Museum"
+      }
+    ],
+    "former_or_current_owner": [
+      {
+        "id": "https://www.britishmuseum.org/collection/term/BIOG60934",
+        "type": "Person",
+        "_label": "Alphonse Van Branteghem"
+      }
+    ],
+    "acquired_title_through": [
+      {
+        "type": "Acquisition",
+        "_label": "Purchase of object from Mr William Ready, 1890s",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300077989",
+            "type": "Type",
+            "_label": "Purchase"
+          }
+        ],
+        "transferred_title_from": [
+          {
+            "id": "https://www.wikidata.org/wiki/Q21556076",
+            "type": "Person",
+            "_label": "Mr William Ready"
+          }
+        ],
+        "transferred_title_to": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ],
+        "timespan": {
+          "type": "TimeSpan",
+          "_label": "1890s",
+          "begin_of_the_begin": "1890-01-01T00:00:00Z",
+          "end_of_the_end": "1899-12-31T23:59:59Z"
+        }
+      }
+    ],
+    "member_of": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/LabyrinthExhibitionObjects.json",
+        "type": "Set",
+        "_label": "Labyrinth Exhibition Objects"
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "content": "Gardner, 1893, Catalogue of the Greek Vases in the Ashmolean Museum, page illustrated: fig.32 on p.29, Cat. No.: no.303 on p. 29",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Beazley, J. D. Attic Red-Figure Vase-Painters (ARV), Attic Red-Figure Vase-Painters, Cat. No.: no. 7 on p. 120",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Beazley, J. D. CVA 1, Corpus Vasorum Antiquorum, Great Britain 3, Oxford 1, page illustrated: no. 7 on pl. 1, Cat. No.: no. 7 on p. 3",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Boardman, J., Athenian Red Figure Vases the Archaic Period, Athenian Red Figure Vases the Archiac Period, page illustrated: no. 118 on p. 85, Cat. No.: p. 62; no. 118 on p. 244",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "BAPD, Beazley Archive Pottery Database, Cat. No.: 201009",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Burn & Glynn, 1982, Beazley Addenda. Additional References to ABV, ARV2 & Paralipomena, Cat. No.: no. 120.7 on p. 87",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Purchased, 1890s. Source: Mr William Ready.\n © Ashmolean Museum, University of Oxford",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
+            "type": "Type",
+            "_label": "Credit Line",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435418",
+                "type": "Type",
+                "_label": "Credit Line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Height 8.1 cm; rim diameter 20 cm; foot diameter 8 cm; width 26.7 cm; rim thickness 0.3 cm.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/53922f57-dab5-43c5-a527-fc20a63fe128",
+            "type": "Type",
+            "_label": "Dimensions Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435430",
+                "type": "Type",
+                "_label": "Dimensions Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "pottery, with painted decoration",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
+            "type": "Type",
+            "_label": "Medium Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435429",
+                "type": "Type",
+                "_label": "Medium Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Place of creation: Attica. Find spot: Chiusi. Purchased from Mr William Ready, 1890s. Ex-Van Branteghem collection.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/dd8b8c75-3f4b-4071-a231-161ae556e572",
+            "type": "Type",
+            "_label": "Provenance Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435438",
+                "type": "Type",
+                "_label": "Provenance Description"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "according to legend an elaborate labyrinth was built at knossos on the island of crete to hold a ferocious minotaur discover the palace of knossos and the search for the labyrinth https t co egy sup m coin minted at knossos depicting the cretan labyrinth bce https t co v zlxn c",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "throughout history we have been fascinated by the stories and symbolism of the cretan labyrinth the minotaur that was said to lurk within you can explore the myth in our current exhibition labyrinth ashmolean https t co egy sup m attic red figure cup c bce https t co viieqrml j",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt ashmoleanmuseum throughout history we have been fascinated by the stories and symbolism of the cretan labyrinth the minotaur that was said to lurk within you can explore the myth in our current exhibition labyrinth ashmolean https t co egy sup m attic red figure cup c bce https t co viieqrml j",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "On this red-figure cup we see Theseus lunge at the Minotaur, grabbing him by the horn with his left hand and attempting to stab him with the sword held in his right hand.\n In Greek myth, Theseus was the semi-divine hero who killed the Minotaur, a monster with the head of a bull and the body of a man confined in a Labyrinth on the island of Crete. The Labyrinth was an ingenious maze commissioned by King Minos. Following his defeat, Theseus returned to Greece, and became king and the founder of Athens.\n The cup has been reassembled from a group of separate fragments with added plaster, and so parts of the decoration are modern.",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
