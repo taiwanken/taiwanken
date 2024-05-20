@@ -347,6 +347,13 @@
           ]
       }
     ],
+    "current_location": [
+      {
+        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+        "type": "Place",
+        "_label": "Ashmolean Museum"
+      }
+    ],
     "current_owner": [
       {
         "id": "http://vocab.getty.edu/ulan/500309840",
@@ -617,195 +624,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Decant Label: Decant record merged by: elizabeth-c : 06/03/2008 Bar code: ODS7-7722 Accession no.: AN1896-1908 G.261 Title / Object: athenian red figure cup, Theseus, Minotaur, Apollodoros Classification: Containers No. of items: 1 Condition short: 4 : No conservation needed Mat. / techn.: part or un-glazed ceramic Inventory note: Decant note: 1 : Valid Inv. person: decant station DS7 Creation date: 18/07/2006 Decant recorded period: Greece and Aegean Comment from Decant database: now in Randolph Gallery, v.303 Comment during Decant DB checking: good image on JC DB",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "label text: Case 27 7)Theseus on the point of killing the minotaur. Attic red-figure cup from Chiusi by Apollodorus. ca.500 B.C. G.261 (v.303) (ARV 120,7)  ex Van Branteghem Coll. Date: 09.11.1988",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "physical description: Attic red-figure Type B pottery cup attributed by Beazley to Apollodorus. Shiny black painted gloss. Straight lip. Wide black band on underside of stemmed foot. Dipinto inscription. INTERIOR: A simple reserved line serves as tondo border. The red-figure tondo decoration consists of a mythological scene. Theseus slays the Minotaur. From the left, Theseus lunges at the Minotaur, grabbing him by the horn with his left hand and attempting to stab him with the sword held in his right hand. Theseus wears a chitoniskos and an added red fillet in his hair. His scabbard’s red carrying strap is visible over his chest and the scabbard pokes out from behind his back. The Minotaur, with a hairy human body and bull’s head, has fallen to the ground, his left knee is bent. His arms are raised, perhaps in an effort to protect himself. Relief lines are visible and brown wash for the hair. The vase is reassembled from several sherds and added plaster. Parts of the figured decoration are modern. Date: 20.07.2018",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "exhibition text: Theseus and the Minotaur About 500 BCE, ceramic Ashmolean Museum Date: 17.01.2023",
-        "_label": "Further text",
-        "language": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
-            "type": "Language",
-            "_label": "English",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300388277",
-                "type": "Language",
-                "_label": "English"
-              }
-            ]
-          }
-        ],
-        "classified_as": [
-          {
-            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
-            "type": "Type",
-            "_label": "Description",
-            "equivalent": [
-              {
-                "id": "http://vocab.getty.edu/aat/300435416",
-                "type": "Type",
-                "_label": "Description"
-              }
-            ],
-            "classified_as": [
-              {
-                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
-                "type": "Type",
-                "_label": "Brief Text",
-                "equivalent": [
-                  {
-                    "id": "http://vocab.getty.edu/aat/300418049",
-                    "type": "Type",
-                    "_label": "Brief Text"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "LinguisticObject",
-        "content": "website description: On this red-figure cup we see Theseus lunge at the Minotaur, grabbing him by the horn with his left hand and attempting to stab him with the sword held in his right hand. In Greek myth, Theseus was the semi-divine hero who killed the Minotaur, a monster with the head of a bull and the body of a man confined in a Labyrinth on the island of Crete. The Labyrinth was an ingenious maze commissioned by King Minos. Following his defeat, Theseus returned to Greece, and became king and the founder of Athens. The cup has been reassembled from a group of separate fragments with added plaster, and so parts of the decoration are modern. Date: 11.12.2023",
+        "content": "On this red-figure cup we see Theseus lunge at the Minotaur, grabbing him by the horn with his left hand and attempting to stab him with the sword held in his right hand.\n In Greek myth, Theseus was the semi-divine hero who killed the Minotaur, a monster with the head of a bull and the body of a man confined in a Labyrinth on the island of Crete. The Labyrinth was an ingenious maze commissioned by King Minos. Following his defeat, Theseus returned to Greece, and became king and the founder of Athens.\n The cup has been reassembled from a group of separate fragments with added plaster, and so parts of the decoration are modern.",
         "_label": "Further text",
         "language": [
           {
