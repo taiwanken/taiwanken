@@ -1,0 +1,26 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/RingVis.json",
+  "type": "VisualItem",
+  "_label": "Seal ring showing bull-leaping scene [Visual Content]",
+  "identified_by": [
+    {
+      "type": "Name",
+      "content": "Seal ring showing bull-leaping scene [Visual Content]",
+      "classified_as": [
+        {
+          "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+          "type": "Type",
+          "_label": "Primary Title",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "_label": "Primary Title"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/RingPhys.json",
+    "type": "HumanMadeObject",
+    "shows": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/RingVis.json",
+        "type": "VisualItem",
+        "_label": "Seal ring showing bull-leaping scene [Visual Content]"
+      }
+    ],
+    "_label": "Seal ring showing bull-leaping scene [Physical Object]",
+    "identified_by": [
+      {
+        "type": "Identifier",
+        "content": "AN1896-1908.AE.2237",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+            "type": "Type",
+            "_label": "Accession Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "Accession Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "478087",
+        "_label": "Object ID",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
+            "type": "Type",
+            "_label": "Record Identifier",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435704",
+                "type": "Type",
+                "_label": "Record Identifier"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "EX24.181",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/view/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
+            "type": "Type",
+            "_label": "Exhibition Catalogue Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404620",
+                "type": "Type",
+                "_label": "Exhibition Catalogue Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Name",
+        "content": "Seal ring showing bull-leaping scene",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+            "type": "Type",
+            "_label": "Primary Title",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Title"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300417205",
+            "type": "Type",
+            "_label": "Constructed Title"
+          }
+        ]
+      }
+    ],
+    "classified_as": [
+      {
+        "id": "http://vocab.getty.edu/aat/300046014",
+        "type": "Type",
+        "_label": "Seal ring",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
+            "type": "Type",
+            "_label": "Type of Work",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435443",
+                "type": "Type",
+                "_label": "Type of Work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "type": "LinguisticObject",
+        "_label": "IIIF v3 manifest",
+        "digitally_carried_by": [
+          {
+            "type": "DigitalObject",
+            "_label": "IIIF v3 manifest",
+            "format": "application/ld+json",
+            "conforms_to": [
+              {
+                "id": "http://iiif.io/api/presentation/3/context.json",
+                "type": "InformationObject"
+              }
+            ],
+            "access_point": [
+              {
+                "id": "https://dams.ashmus.ox.ac.uk/iiif/478087/manifest",
+                "type": "DigitalObject"
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Name",
+                "content": "IIIF v3 manifest"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "made_of": [
+      {
+        "id": "http://vocab.getty.edu/aat/300011021",
+        "type": "Material",
+        "_label": "gold"
+      }
+    ],
+    "dimension": [
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 2.3,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055644",
+            "type": "Type",
+            "_label": "height"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 3.5,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055647",
+            "type": "Type",
+            "_label": "width"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379098",
+          "type": "MeasurementUnit",
+          "_label": "cm"
+        },
+        "value": 2.2,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055624",
+            "type": "Type",
+            "_label": "diameter"
+          }
+        ]
+      }
+    ],
+    "produced_by": {
+      "type": "Production",
+      "timespan": {
+        "type": "TimeSpan",
+        "identified_by": [
+          {
+            "type": "Name",
+            "content": "c. 1450 BC - c. 1375 BC (Late Minoan II Period - Late Minoan IIIA1 Period)",
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
+                "type": "Type",
+                "_label": "Display Date",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300404669",
+                    "type": "Type",
+                    "_label": "Display Date"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "begin_of_the_begin": "-1450-01-01T00:00:00Z",
+        "end_of_the_end": "-1375-12-31T23:59:59Z",
+        "part_of": [
+          {
+            "id": "http://vocab.getty.edu/aat/300020086",
+            "type": "TimeSpan",
+            "_label": "Late Minoan II Period - Late Minoan IIIA1 Period (c. 1450 BC - c. 1375 BC)",
+            "begin_of_the_begin": "-1450-01-01T00:00:00Z",
+            "end_of_the_end": "-1375-12-31T23:59:59Z"
+          }
+        ]
+      }
+    },
+    "encountered_by": [
+      {
+          "type": "Encounter",
+          "_label": "Encounter event",
+          "took_place_at": [
+              {
+                  "id": "http://vocab.getty.edu/tgn/8722313",
+                  "type": "Place",
+                  "_label": "Archanes"
+              }
+          ]
+      }
+    ],
+    "current_owner": [
+      {
+        "id": "http://vocab.getty.edu/ulan/500309840",
+        "type": "Group",
+        "_label": "Ashmolean Museum"
+      }
+    ],
+    "acquired_title_through": [
+      {
+        "type": "Acquisition",
+        "_label": "Donation of object by Sir Arthur Evans in 1938",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417638",
+            "type": "Type",
+            "_label": "Donation"
+          }
+        ],
+        "transferred_title_from": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500212319",
+            "type": "Person",
+            "_label": "Sir Arthur Evans"
+          }
+        ],
+        "transferred_title_to": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ],
+        "timespan": {
+          "type": "TimeSpan",
+          "_label": "1938",
+          "begin_of_the_begin": "1938-01-01T00:00:00Z",
+          "end_of_the_end": "1938-12-31T23:59:59Z"
+        }
+      }
+    ],
+    "member_of": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/LabyrinthExhibitionObjects.json",
+        "type": "Set",
+        "_label": "Labyrinth Exhibition Objects"
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "content": "Scarisbrick and Taylor, Finger rings from Egypt to the present day, page mentioned: p.91, Cat. No.: no.932",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Wodehouse 2014, The Ashmolean Museum: Crossing Cultures. Crossing Time, page mentioned: p.216, page illustrated: p.216",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Hughes-Brock, Helen; Boardman, John, 2009, Corpus der minoischen und mykenischen Siegel (CMS): Band VI Oxford - Ashmolean Museum, page mentioned: p. 521, Cat. No.: 336",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Presented by Sir Arthur Evans, 1938.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
+            "type": "Type",
+            "_label": "Credit Line",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435418",
+                "type": "Type",
+                "_label": "Credit Line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Height 2.3 cm; width 3.5 cm; diameter 2.2 cm.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/53922f57-dab5-43c5-a527-fc20a63fe128",
+            "type": "Type",
+            "_label": "Dimensions Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435430",
+                "type": "Type",
+                "_label": "Dimensions Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Gold.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
+            "type": "Type",
+            "_label": "Medium Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435429",
+                "type": "Type",
+                "_label": "Medium Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Find spot: Archanes. Donated by Sir Arthur Evans, 1938.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/dd8b8c75-3f4b-4071-a231-161ae556e572",
+            "type": "Type",
+            "_label": "Provenance Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435438",
+                "type": "Type",
+                "_label": "Provenance Description"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "this fabulous minoan gold signet ring is currently on display in the exhibition labyrinth knossos myth and reality at the ashmolean museum oxford labyrinth ashmolean museum record https t co qnpnxnllt",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt alisonfisk this fabulous minoan gold signet ring is currently on display in the exhibition labyrinth knossos myth and reality at the ashmolean museum oxford labyrinth ashmolean museum record https t co qnpnxnllt",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "finger ring with design showing bull leaping bce gold l cm said to be from archanes c ashmolean museum university of oxford in labyrinth knossos myth reality at ashmolean museum oxford https t co i zbpboj k https t co n skjfcpao",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt shou ning finger ring with design showing bull leaping bce gold l cm said to be from archanes c ashmolean museum university of oxford in labyrinth knossos myth reality at ashmolean museum oxford https t co i zbpboj k https t co n skjfcpao",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "short description: Gold signet ring with a bull-leaping scene",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Decant Label: Decant record merged by: yannis-g : 04/03/2008 Bar code: ODS5-13464 Accession no.: AN1896-1908 AE.2237 Title / Object: minoan seal Classification: Dress and Personal Accessories No. of items: 1 Condition short: 4 : No conservation needed Mat. / techn.: silver/gold Geographical comment:   Unrecorded Inventory note: Decant note: 1 : Valid Inv. person: decant station DS5 Creation date: 28/02/2006 Decant recorded period: Greece and Aegean Comment from Decant database: reserved for research Comment during Decant DB checking: image on JC image DB  Gold ring  - bull leaper",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "comment: Casts of this seal are in CDS5-1679.",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "exhibition text: 5    Signet ring with a bull-leaping scene This gold ring shows a man leaping over a bull. The paved floor indicates that this took place in or around the Palace. The object in front of the bull is probably a folded garment of cloth or leather but its significance is not clear. 1450–1375 BCE, gold said to be from Archanes Ashmolean Museum Date: 17.01.2023",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
