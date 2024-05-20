@@ -337,14 +337,7 @@
         {
           "id": "https://lux.collections.yale.edu/data/place/cb69153b-0690-47c6-8fa8-a1c7d236393d",
           "type": "Place",
-          "_label": "Attica",
-          "equivalent": [
-            {
-              "id": "http://vocab.getty.edu/tgn/7593167",
-              "type": "Type",
-              "_label": "Attica"
-            }
-          ]
+          "_label": "Attica"
         }
       ]
     },
