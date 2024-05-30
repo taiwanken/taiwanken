@@ -1,0 +1,223 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "id": "https://api.artic.edu/api/v1/artworks/151364",
+  "type": "HumanMadeObject",
+  "classified_as": [
+    {
+      "id": "https://vocab.getty.edu/aat/300033618",
+      "type": "Type",
+      "_label": "Painting",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435443",
+          "type": "Type",
+          "_label": "Type of Work"
+        }
+      ]
+    }
+  ],
+  "identified_by": [
+    {
+      "type": "Name",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300404670",
+          "type": "Type",
+          "_label": "Primary Name"
+        }
+      ],
+      "content": "Untitled"
+    },
+    {
+      "type": "Identifier",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300312355",
+          "type": "Type",
+          "_label": "Accession Number"
+        }
+      ],
+      "content": "1998.522"
+    }
+  ],
+  "referred_to_by": [
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435430",
+          "type": "Type",
+          "_label": "Dimension Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "56.5 × 127.6 cm (22 1/4 × 50 1/4 in.), without frame"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435414",
+          "type": "Type",
+          "_label": "Inscription",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "Signed: recto: \"Jackson Pollock\" (lower right in black paint); not inscribed on verso"
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435424",
+          "type": "Type",
+          "_label": "Exhibition Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "London, Marlborough Fine Art, “Jackson Pollock,” June 1961, cat. 26, as “Painting, c. 1938.”\n\nKunstverein für die Rheinlande und Westfalen, Düsseldorf Kunsthalle, “Jackson Pollock,” Sept. 5–Oct. 8, 1961, cat. 35, as “Painting, c. 1938.”\n\nKunsthaus Zürich, “Jackson Pollock,” Oct. 24–Nov. 29, 1961, cat. 35, as “Painting, c. 1938.”\n\nRome, Marlborough Galleria d’Arte, “Jackson Pollock,” Oct.–Nov. 1962; Milan, Toninelli Arte Moderna, Nov.–Dec. 1962, cat. 18, as “Painting, c. 1938.\n\nStockholm, Moderna Museet, “Jackson Pollock,” Feb. 27–Apr. 15, 1963, cat. 35, as “Painting, 1938.”\n\nNew York, Marlborough-Gerson Gallery, “Jackson Pollock,” Jan. 14–Feb. 15, 1964, cat. 40, as “Painting, c. 1938.”\n\nEast Hampton, NY, Guild Hall Museum, “Krasner/Pollock: A Working Relationship,” Aug. 8–Oct. 4, 1981; New York, Grey Art Gallery and Study Center, New York University, Nov. 3–Dec. 12, 1981, cat. 20, as “Composition with Donkey Head.”\n\nMunich, ACA Gallery, “Jackson Pollock,” Sept. 1993, cat. 1, as “Composition with Donkey Head.”\n\nKunsthalle Düsseldorf, “Siqueiros/Pollock, Pollock/Siqueiros,” Sept. 30–Dec. 3, 1995, no cat. no., as “Composition with Donkey Head.”\n\nHouston, Museum of Fine Arts, “Jackson Pollock: Defining the Heroic,” Mar. 2–June 30, 1996, cat. 5.\n\nNew York, Joan T. Washburn Gallery, “Pollock, Orozco and Siqueiros,” Jan. 21–Feb. 28, 1998.\n\nChicago, Art Institute of Chicago, America after the Fall: Painting in the 1930s, June 5–Sept. 18, 2016; Paris, Établissement public du musée d‘Orsay et du musée de l‘Orangerie, Oct. 11, 2016–Jan. 30, 2017; London, Royal Academy of Arts, Feb. 25–June 4, 2017.\n\nShanghai Museum, Pathways to Modernism: American Art, 1865–1945, Sept. 28, 2018–Jan. 6, 2019.\n\nNew York, Whitney Museum of American art, Vida Americana: Mexican Muralists Remake American Art, 1925-1945, Feb. 17-May 17, 2020, cat. 109; San Antonio, McNay Art Museum, June 25-Oct. 4, 2020 (extended at the Whitney until Jan. 31, 2021 due to the COVID-19 pandemic. McNay Art Museum portion of the tour was canceled."
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026497",
+          "type": "Type",
+          "_label": "Bibliography Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "Hal Burton, \"Jackson Pollock: He Paints As He Pleases,\" \"Newsday,\" December 1, 1950, p. 48.\n\nParker Tyler, \"Hopper/Pollock,\" \"Art News Annual\" 26 (1957), p. 96 (ill.), as \"Untitled painting, 1933.\"\n\nDorothy Seiberling, \"Baffling U. S. Art: What It Is About,\" \"Life\" (November 9, 1959), p. 71 (color ill.).; \"Life International\" (December 1959), n.pag. (ill.).\n\nThomas B. Hess, “Pollock: The Art of a Myth,” “ARTnews” 62, 9 (January 1964), p. 39 (ill.), as “Untitled painting, ca. 1938.”\n\nFrancis V. O’Connor, “The Genesis of Jackson Pollock: 1912–1943” (Ph.D. diss., Johns Hopkins University, 1965), p. 189, pl. 55 (ill.). For a general discussion of the influence of José Clemente Orozco on Pollock, see pp. 176–190.\n\n_____, “The Genesis of Jackson Pollock: 1912 to 1943,” “Artforum” 5, 9 (May 1967), p. 23, fig. 8 (ill.), as “Painting.”\n\nIrving Sandler, “The Triumph of American Painting: A History of Abstract Expressionism” (Praeger Publishers, 1970), p. 105, fig. 8-3 (ill.), as “Painting, c. 1938.”\n\nJudith Wolfe, “Jungian Aspects of Pollock’s Imagery,” “Artforum” 11, 3 (November 1972), p. 66, fig. 2 (ill.), as “Painting, c. 1938.”\n\nFrancis V. O'Connor and Eugene Victor Thaw, eds., \"Jackson Pollock: A Catalogue Raisonné of Paintings, Drawings, and Other Works\" (Yale University Press, 1978), vol. 1, cat. 61 (ill.); vol. 4, fig. 21 (photo), as \"[Composition with Donkey Head].\"\n\nDaniel Wheeler, “Art Since Mid-Century: 1945 to the Present” (Vendome Press/Rizzoli International, 1991), pp. 41, 43, fig. 64 (color ill.), as “Composition with Donkey Head.”\n\nStephen Polcari, “Review: Siqueiros and Pollock,” “Burlington Magazine” 138, 1117 (April 1996), p. 274, as “Composition with Donkey Head.”\n\nRichard Kalina, “Pollock, Orozco and Siqueiros at Washburn,” “Art in America” 86, 9 (September 1998), p. 129, as “Untitled (Composition with Donkey Head).”\n\n“Annual Report 1998–99” (Art Institute of Chicago, 1999), p. 19, as “Untitled (Composition with Donkey Head).”\n\nRobert Storr, “A Piece of the Action,” in Kirk Varnedoe and Pepe Karmel, eds., “Jackson Pollock: New Approaches” (Museum of Modern Art/Harry N. Abrams, 1999), p. 50, fig. 11 (ill.), as “Untitled [Composition with Donkey Head].”\n\nAnthony White, ed., “Jackson Pollock’s ‘Blue Poles,’” exh. cat. (National Gallery of Australia, 2002), p. 20 (color ill.), as “Untitled (Composition with Donkey Head), 1938–41.”\n\nBarbara Haskell, ed., with additional essays by Mark A. Castro, Dafne Cruz Porchini, Renato González Mello, Marcela Guerrero, Andrew Hemingway, Anna Indych-López, Michael K. Schuessler, Gwendolyn Dubois Shaw, Shipu Wang, and James Wechsler, Vida Americana: Mexican Muralists Remake American Art, 1925-1945, exh. cat. (New York: Whitney Museum of American Art; New Haven: Yale University Press, 2020), 163, cat. 109."
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300435438",
+          "type": "Type",
+          "_label": "Provenance Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "The artist; by descent to Lee Krasner Pollock, New York, 1956; bequeathed to the Pollock-Krasner Foundation, 1984 [according to email of Jul. 31, 2007 from Joan Washburn; photocopy in curatorial file]; sold through Joan T. Washburn Gallery, New York, to the Art Institute, 1998."
+    },
+    {
+      "type": "LinguisticObject",
+      "classified_as": [
+        {
+          "id": "http://vocab.getty.edu/aat/300026687",
+          "type": "Type",
+          "_label": "Credit Statement",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300418049",
+              "type": "Type",
+              "_label": "Brief Text"
+            }
+          ]
+        }
+      ],
+      "content": "Major Acquisitions Centennial Fund; estate of Florene May Schoenborn; through prior acquisitions of Mr. and Mrs. Carter H. Harrison, Marguerita S. Ritman, Mr. and Mrs. Bruce Borland, and Mary L. and Leigh B. Block"
+    }
+  ],
+  "member_of": [
+    {
+      "id": "https://api.artic.edu/api/v1/exhibitions/1952",
+      "type": "Set"
+    },
+    {
+      "id": "https://api.artic.edu/api/v1/category-terms/PC-8",
+      "type": "Set",
+      "_label": "Contemporary Art"
+    }
+  ],
+  "produced_by": {
+    "type": "Production",
+    "timespan": {
+      "type": "TimeSpan",
+      "identified_by": [
+        {
+          "id": "https://api.artic.edu/api/v1/artworksName/c. 1938–41",
+          "type": "Name",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404669",
+              "type": "Type",
+              "_label": "Display Title"
+            }
+          ]
+        }
+      ],
+      "begin_of_the_begin": "1938-01-01T00:00:00",
+      "end_of_the_begin": "1938-12-31T23:59:59",
+      "begin_of_the_end": "1941-01-01T00:00:00",
+      "end_of_the_end": "1941-12-31T23:59:59"
+    },
+    "took_place_at": [
+      {
+        "type": "Place",
+        "_label": "United States"
+      }
+    ],
+    "carried_out_by": [
+      {
+        "id": "https://api.artic.edu/api/v1/agents/20772",
+        "type": "Person",
+        "_label": "Jackson Pollock"
+      }
+    ]
+  },
+  "subject_of": [
+    {
+      "type": "LinguisticObject",
+      "digitally_carried_by": [
+        {
+          "type": "DigitalObject",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300264578",
+              "type": "Type",
+              "_label": "Web Page"
+            }
+          ],
+          "access_point": [
+            {
+              "id": "https://www.artic.edu/artworks/151364",
+              "type": "DigitalObject"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
