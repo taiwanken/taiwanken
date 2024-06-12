@@ -1,0 +1,546 @@
+{
+    "@context": "https://linked.art/ns/v1/linked-art.json",
+    "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/CoinPhys.json",
+    "type": "HumanMadeObject",
+    "shows": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/CoinVis.json",
+        "type": "VisualItem",
+        "_label": "Ancient Greek silver coin [Visual Content]"
+      }
+    ],
+    "_label": "Ancient Greek silver coin [Physical Object]",
+    "identified_by": [
+      {
+        "type": "Identifier",
+        "content": "HCR4579",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/3d9696be-0b9a-4a3d-b380-7584fbf96ac7",
+            "type": "Type",
+            "_label": "Accession Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300312355",
+                "type": "Type",
+                "_label": "Accession Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "403683",
+        "_label": "Object ID",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/89630361-18a3-4c4b-bcd7-16894d95defd",
+            "type": "Type",
+            "_label": "Record Identifier",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435704",
+                "type": "Type",
+                "_label": "Record Identifier"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Identifier",
+        "content": "EX24.018",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/view/concept/a34c7953-e2b0-4687-be58-f2ce09ffe490",
+            "type": "Type",
+            "_label": "Exhibition Catalogue Number",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404620",
+                "type": "Type",
+                "_label": "Exhibition Catalogue Number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Name",
+        "content": "Ancient Greek silver coin",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/f7ef5bb4-e7fb-443d-9c6b-371a23e717ec",
+            "type": "Type",
+            "_label": "Primary Title",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404670",
+                "type": "Type",
+                "_label": "Primary Title"
+              }
+            ]
+          },
+          {
+            "id": "http://vocab.getty.edu/aat/300417205",
+            "type": "Type",
+            "_label": "Constructed Title"
+          }
+        ]
+      }
+    ],
+    "classified_as": [
+      {
+        "id": "https://lux.collections.yale.edu/data/concept/04a52fcf-0e59-4635-9b08-5aebec844466",
+        "type": "Type",
+        "_label": "Coin",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/aat/300037222",
+            "type": "Type",
+            "_label": "Coin"
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/4ea65dc4-76bc-45b7-b54c-a1ca4783d4e2",
+            "type": "Type",
+            "_label": "Type of Work",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435443",
+                "type": "Type",
+                "_label": "Type of Work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subject_of": [
+      {
+        "type": "LinguisticObject",
+        "_label": "IIIF v3 manifest",
+        "digitally_carried_by": [
+          {
+            "type": "DigitalObject",
+            "_label": "IIIF v3 manifest",
+            "format": "application/ld+json",
+            "conforms_to": [
+              {
+                "id": "http://iiif.io/api/presentation/3/context.json",
+                "type": "InformationObject"
+              }
+            ],
+            "access_point": [
+              {
+                "id": "https://dams.ashmus.ox.ac.uk/iiif/403683/manifest",
+                "type": "DigitalObject"
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Name",
+                "content": "IIIF v3 manifest"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "made_of": [
+      {
+        "id": "http://vocab.getty.edu/aat/300011029",
+        "type": "Material",
+        "_label": "silver"
+      }
+    ],
+    "dimension": [
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379097",
+          "type": "MeasurementUnit",
+          "_label": "mm"
+        },
+        "value": 26,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300055624",
+            "type": "Type",
+            "_label": "diameter"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "id": "http://vocab.getty.edu/aat/300379225",
+          "type": "MeasurementUnit",
+          "_label": "g"
+        },
+        "value": 10.8,
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300056240",
+            "type": "Type",
+            "_label": "weight"
+          }
+        ]
+      },
+      {
+        "type": "Dimension",
+        "unit": {
+          "type": "MeasurementUnit",
+          "_label": "clock position"
+        },
+        "value": 9,
+        "classified_as": [
+          {
+            "type": "Type",
+            "_label": "die-axis"
+          }
+        ]
+      }
+    ],
+    "produced_by": {
+      "type": "Production",
+      "technique": [
+        {
+          "id": "http://vocab.getty.edu/aat/300206581",
+          "type": "Type",
+          "_label": "minting"
+        },
+        {
+          "id": "http://vocab.getty.edu/aat/300206846",
+          "type": "Type",
+          "_label": "striking"
+        }
+      ],
+      "timespan": {
+        "type": "TimeSpan",
+        "identified_by": [
+          {
+            "type": "Name",
+            "content": "300 BC - 201 BC",
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/5088ec29-065b-4c66-b49e-e61d3c8f3717",
+                "type": "Type",
+                "_label": "Display Date",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300404669",
+                    "type": "Type",
+                    "_label": "Display Date"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "begin_of_the_begin": "-300-01-01T00:00:00Z",
+        "end_of_the_end": "-201-12-31T23:59:59Z"
+      },
+      "took_place_at": [
+        {
+          "id": "https://lux.collections.yale.edu/data/place/9f0e37e8-eee4-45ea-a061-8e9d08d04a09",
+          "type": "Place",
+          "_label": "Knossos",
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/tgn/7010870",
+              "type": "Place",
+              "_label": "Knossos"
+            }
+          ]
+        }
+      ]
+    },
+    "current_location": {
+      "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+      "type": "Place",
+      "_label": "Ashmolean Museum",
+      "equivalent": [
+        {
+          "id": "http://vocab.getty.edu/ulan/500309840",
+          "type": "Place",
+          "_label": "Ashmolean Museum"
+        }
+      ]
+    },
+    "current_owner": [
+      {
+        "id": "https://lux.collections.yale.edu/data/group/3c72104e-4108-41b0-ba1c-f59c5a562587",
+        "type": "Group",
+        "_label": "Ashmolean Museum",
+        "equivalent": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309840",
+            "type": "Group",
+            "_label": "Ashmolean Museum"
+          }
+        ]
+      }
+    ],
+    "acquired_title_through": [
+      {
+        "type": "Acquisition",
+        "_label": "Donation of object by Reverend Charles Godwyn to the Bodleian Library in 1770",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300417638",
+            "type": "Type",
+            "_label": "Donation"
+          }
+        ],
+        "transferred_title_from": [
+          {
+            "id": "https://www.wikidata.org/wiki/Q18761917",
+            "type": "Person",
+            "_label": "Reverend Charles Godwyn"
+          }
+        ],
+        "transferred_title_to": [
+          {
+            "id": "http://vocab.getty.edu/ulan/500309844",
+            "type": "Group",
+            "_label": "Bodleian Library"
+          }
+        ],
+        "timespan": {
+          "type": "TimeSpan",
+          "_label": "1770",
+          "begin_of_the_begin": "1770-01-01T00:00:00Z",
+          "end_of_the_end": "1770-12-31T23:59:59Z"
+        }
+      }
+    ],
+    "member_of": [
+      {
+        "id": "http://raw.githubusercontent.com/taiwanken/taiwanken/main/LabyrinthExhibitionObjects.json",
+        "type": "Set",
+        "_label": "Labyrinth Exhibition Objects"
+      }
+    ],
+    "referred_to_by": [
+      {
+        "type": "LinguisticObject",
+        "content": "Svoronos, Crete, Numismatique de la Crète ancienne., page mentioned: 71, Cat. No.: 48",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/ceef9d2e-1a07-4269-827f-8c407e4d4711",
+            "type": "Type",
+            "_label": "Citations",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300311705",
+                "type": "Type",
+                "_label": "Citations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Presented by Reverend Charles Godwyn, 1770.\n © Ashmolean Museum, University of Oxford",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
+            "type": "Type",
+            "_label": "Credit Line",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435418",
+                "type": "Type",
+                "_label": "Credit Line"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Diameter 26 mm; weight 10.8 g; die-axis 9 o'clock.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/53922f57-dab5-43c5-a527-fc20a63fe128",
+            "type": "Type",
+            "_label": "Dimensions Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435430",
+                "type": "Type",
+                "_label": "Dimensions Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "silver, struck",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/a51a170c-211c-4cc1-bb11-52e24836117f",
+            "type": "Type",
+            "_label": "Medium Statement",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435429",
+                "type": "Type",
+                "_label": "Medium Statement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Obverse inscription: KN (below head). Countermark: uncertain; obverse.",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300435414",
+            "type": "Type",
+            "_label": "Inscription Description"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Mint: Cnossus. Donated to the Bodleian Library by Reverend Charles Godwyn, 1770.",
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/dd8b8c75-3f4b-4071-a231-161ae556e572",
+            "type": "Type",
+            "_label": "Provenance Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435438",
+                "type": "Type",
+                "_label": "Provenance Description"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "according to legend an elaborate labyrinth was built at knossos on the island of crete to hold a ferocious minotaur discover the palace of knossos and the search for the labyrinth https t co egy sup m coin minted at knossos depicting the cretan labyrinth bce https t co v zlxn c",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt ashmoleanmuseum according to legend an elaborate labyrinth was built at knossos on the island of crete to hold a ferocious minotaur discover the palace of knossos and the search for the labyrinth https t co egy sup m coin minted at knossos depicting the cretan labyrinth bce https t co v zlxn c",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt dr thehistories a silver coin minted at knossos depicting the cretan labyrinth bc ashmolean museum drthehistories https t co ncfduuzzwu",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "a silver coin minted at knossos depicting the cretan labyrinth bc ashmolean museum drthehistories https t co ncfduuzzwu",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "rt dr thehistories a silver coin minted at knossos depicting the cretan labyrinth bc ashmolean museum drthehistories https t co ncfduuzzwu",
+        "classified_as": [
+          {
+            "id": "http://vocab.getty.edu/aat/300312269",
+            "type": "Type",
+            "_label": "Social Media (tweet)"
+          }
+        ]
+      },
+      {
+        "type": "LinguisticObject",
+        "content": "Coins from Knossos, on the island of Crete, were decorated with a symbol of the city: a labyrinth design which sometimes had a Minotaur at the centre. The design on the reverse of this coin, unlike most literary descriptions, has a single path into the centre. It appears more like a bird’s eye view of a building, and one in which it is impossible to get lost.\n In Greek myth, the Minotaur was a monster with the head of a bull and the body of a man who was imprisoned in a dark underground labyrinth at Knossos. The Labyrinth was an ingenious maze commissioned by King Minos and designed by the architect Daedalus.\n In order to escape the maze after killing the Minotaur, the hero Theseus needed a ball of thread, given to him by the princess Ariadne. Or at least that is the most commonly accepted story – digging deeper into the myth reveals a multitude of contradictory versions. Myths are continually reworked and retold, and that of the Labyrinth is no exception.",
+        "_label": "Further text",
+        "language": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/1fda962d-1edc-4fd7-bfa9-0c10e3153449",
+            "type": "Language",
+            "_label": "English",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language",
+                "_label": "English"
+              }
+            ]
+          }
+        ],
+        "classified_as": [
+          {
+            "id": "https://lux.collections.yale.edu/data/concept/b9d84f17-662e-46ef-ab8b-7499717f8337",
+            "type": "Type",
+            "_label": "Description",
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type",
+                "_label": "Description"
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "https://lux.collections.yale.edu/data/concept/b079998d-bb47-470a-ad7d-d938bd091f8a",
+                "type": "Type",
+                "_label": "Brief Text",
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300418049",
+                    "type": "Type",
+                    "_label": "Brief Text"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
