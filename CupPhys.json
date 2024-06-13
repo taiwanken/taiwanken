@@ -222,7 +222,7 @@
     {
       "type": "Dimension",
       "unit": {
-        "id": "http://vocab.getty.edu/aat/300055624",
+        "id": "http://vocab.getty.edu/aat/300379098",
         "type": "MeasurementUnit",
         "_label": "cm"
       },
@@ -238,7 +238,7 @@
     {
       "type": "Dimension",
       "unit": {
-        "id": "http://vocab.getty.edu/aat/300055624",
+        "id": "http://vocab.getty.edu/aat/300379098",
         "type": "MeasurementUnit",
         "_label": "cm"
       },
