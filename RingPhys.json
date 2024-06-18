@@ -400,7 +400,7 @@
       },
       {
         "type": "LinguisticObject",
-        "content": "Presented by Sir Arthur Evans, 1938.\n © Ashmolean Museum, University of Oxford",
+        "content": "Presented by Sir Arthur Evans, 1938.",
         "classified_as": [
           {
             "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",

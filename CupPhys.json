@@ -274,19 +274,7 @@
           {
             "id": "http://vocab.getty.edu/ulan/500118921",
             "type": "Person",
-            "_label": "Attributed to Apollodoros",
-            "assigned_by": [
-              {
-                "type": "AttributeAssignment",
-                "carried_out_by": [
-                  {
-                    "id": "http://vocab.getty.edu/ulan/500121339",
-                    "type": "Person",
-                    "_label": "John Davidson Beazley"
-                  }
-                ]
-              }
-            ]
+            "_label": "Attributed to Apollodoros"
           }
         ]
       }
@@ -552,7 +540,7 @@
     },
     {
       "type": "LinguisticObject",
-      "content": "Purchased, 1890s. Source: Mr William Ready.\n © Ashmolean Museum, University of Oxford",
+      "content": "Purchased, 1890s. Source: Mr William Ready.",
       "classified_as": [
         {
           "id": "https://lux.collections.yale.edu/data/concept/7c0ba119-47cb-4ade-8aa3-32a1e66c8ca9",
